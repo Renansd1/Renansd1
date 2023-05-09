@@ -9,7 +9,7 @@
 - Python
 - JS
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="450" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="550" height="360" />
 
 ### 👨‍💻 Languages and Tools:
 
