@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <div align="center">
-<h1> 🎉 Hello World, i'm Julio! </h1>
+<h1> 🎉 Hello World, i'm Renan! </h1>
 </div>
 
 
@@ -18,7 +16,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="vscode">
 
 
 ### Currently listening 🎧
