@@ -20,6 +20,6 @@
 
 ### Currently listening 🎧
 
-[![Spotify](https://spotify-now-playing-kappa-gray.vercel.app/api/spotify)](https://open.spotify.com/user/22fpwypx3k54d2pduknpucayq)
+![Spotify](https://spotify-now-playing-kappa-gray.vercel.app/api/spotify)(https://open.spotify.com/user/renandias2200)
 
 ![Snake animation](https://github.com/Renansd1/Renansd1/blob/output/github-contribution-grid-snake.svg)
